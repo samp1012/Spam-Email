@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/samp1012/Email_SMS_Spam_Detector.git
-cd Email_SMS_Spam_Detector
+cd Spam_Email_Detector
 ```
 
 ### 2. Dataset
