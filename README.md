@@ -9,8 +9,8 @@ This project is a machine learning-based application designed to classify email 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Training](#model-training)
-- [Contributing](#contributing)
-- [License](#license)
+- [Saved Models](#saved-models)
+- [Technologies Used](#technologies-used)
 - [Contact](#contact)
 
 ## Features
